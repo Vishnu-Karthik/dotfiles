@@ -44,7 +44,7 @@ URxvt.scrollBar:          false
 URxvt.scrollColor:        #ffffff
 URxvt.background:         #030408
 URxvt.font:               xft:Inconsolata:style=regular:size=11
-URxvt:boldfont:           xft:Inconsolata:style=regular:size=11
+URxvt:boldfont:
 
 ! Xft settings -----------------------------------------------------------------------
 
