@@ -1,4 +1,4 @@
 Screenshots
 
-![Obligatory screenfetch](screenshots/screenshot_1)
+!(screenshots/screenshot_1)
 
