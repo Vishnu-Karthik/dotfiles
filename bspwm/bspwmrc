@@ -1,0 +1,20 @@
+#! /bin/sh
+
+bspc config border_width        10 
+bspc config window_gap          10
+bspc config top_padding         20
+bspc config focused_border_color "#273b39"
+bspc config normal_border_color "#0f1a1e"
+bspc config presel_border_color "#3c4e4c"
+
+bspc config split_ratio         0.50
+bspc config borderless_monocle  false
+bspc config gapless_monocle     true
+bspc config focus_by_distance   true
+
+bspc monitor -d • • • • • •
+
+bspc rule -a feh floating=on
+bspc rule -a mpv floating=on
+bspc rule -a Screenkey manage=off
+
